@@ -23,9 +23,24 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+    Almost everyone in the world uses the internet now. This means that different people are going to have different needs to make it accessible to them. Accessibility is making a webpage easier to interact with regardless of a person's specific needs. This could range from making it more accessible for mobile users, all the way to making it more accessible for people with physical disabilities or issues with vision. 
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+    1. Responsive Units: Responsive Units is a very good way to make your website more accessible because some browsers give the user the ability to increase the font size on a page. This can only work if your page is in scalable units though. Doing this allows the user to have a larger font size, as well as other elements on a web page like images. 
+    
+    2. Semantic HTML: Another way to make your website more accessible is by using semantic HTML. One very big reason that using Semantic HTML is important is because a lot of people use screen readers when using their computers. Without semantic HTML the screen reader can't start at h1 and work its way through the website. Using tags like header, button, nav, article and other semantic tags are very important for this. 
+
+    3. A third way to make your website more accessible is being mindful of the colors you are choosing to put on it. Using colors that wouldn't cause someone who struggles to see certain colors is important to making sure the entire website is accessible to them, and they aren't missing anything important. A way to do this using colors that contrast nicely. 
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+    Variables are one of the core components of JavaScript. What they do is give you a way to store, change and use data in your code. All variables have a variable keyword, and name for that variable, and then a value for that variable.  There are three different keywords when declaring a variable. The first one is "var". This is an older way of declaring a variable, and it is just its generic keyword. While using var you can re-assign the value of the variable, however using var is now considered bad practice. Instead the two variables that are more recommended to used are "const" and "let". "const" is a variable where the value cannot be changed. Think if it like constant. Other times you need to re-assign your variable's value, and that is when you would use the "let" keyword. This is the far more accepted way for using a variable that needs to be re-assigned.
+
 4. What is the purpose of using functions in code?
+
+    This biggest purpose of using functions in code is they allow you to repeat a bunch of actions without having to copy and paste your code over and over, which is considered bad practice. A function is a block of code that takes an input and returns an output based on the task that it is given. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
